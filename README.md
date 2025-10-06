@@ -1,1 +1,2 @@
-# My First Git ProjectThis is my feature branch.
+# My First Git Project
+This is my feature branch.
